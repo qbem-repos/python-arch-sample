@@ -1,1 +1,1 @@
-# python-arch-sample
+# Modelo de arquitetura para Python
